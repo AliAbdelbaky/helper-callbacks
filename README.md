@@ -1,7 +1,9 @@
 # helper-callbacks
-## @deepClone
-## @scrollTo
-## @compare
-## @globalRules
-## @triggerRules
-## @dublicateItems
+
+
+#### @deepClone
+#### @scrollTo
+#### @compare
+#### @globalRules
+#### @triggerRules
+#### @dublicateItems
